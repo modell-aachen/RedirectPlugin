@@ -25,7 +25,7 @@ use vars
 
 use strict;
 
-our $VERSION           = '$Rev$';
+our $VERSION           = '1';
 our $RELEASE = "1";
 our $SHORTDESCRIPTION  = 'Create a redirect to another topic or website.';
 our $NO_PREFS_IN_TOPIC = 1;

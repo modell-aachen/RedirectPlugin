@@ -6,3 +6,4 @@
 =noredirect= is set to =%URLPARAM{"noredirect" default="nothing"}%=
 
 [[%TOPIC%][Test again]]
+
